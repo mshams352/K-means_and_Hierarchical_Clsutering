@@ -1,3 +1,4 @@
+# K-Means and Hierarchical Clustering on COVID-19 World Data
 This code performs hierarchical and K-Means clustering analysis on COVID-19 world data. The data contains information about different countries, such as population, new cases, new deaths, new recoveries, total cases, total deaths, active cases, critical cases, total recovered, and total tests. The purpose of this code is to summarize the data in a meaningful way that will enable us to cluster countries based on different attributes.
 
 ## Table of contents
